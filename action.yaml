@@ -1,4 +1,5 @@
-name: 'Yor GitHub Action'
+ name: Yor GitHub Action
+  uses: bridgecrewio/yor-action@0.3.0
 description: 'Run Yor against IaC templates as a pre-packaged GitHub Action.'
 inputs:
   directory:
